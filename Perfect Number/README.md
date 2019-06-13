@@ -1,0 +1,1 @@
+Design of a Perfect Number Detector 'isPerfect' which accepts an unsigned number n; 0 < n < 2^16 - 1; and checks whether n is a perfect number or not (i.e., whether the sum of its factors excluding itself sum to itself). Note that a functional unit with two data inputs X; Y is provided with provision for addition (X + Y), subtraction (X - Y) and incrementation of X input (X +1).
